@@ -1,0 +1,1 @@
+npm install discord.js quick.db better-sqlite3 fs @discordjs/rest dotenv discord-image-generation crypto nekos.life node-fetch pet-pet-gif moment axios discord-giveaways
